@@ -1,3 +1,6 @@
+Analyzing and Mitigating Dataset Artifacts in NLI
+Project by Siddharth R
+
 (I) Modifications made and details on python code:
 
     1. run.py - used for training Electra pretrained model on SNLI datasets and evaluating SNLI validation dataset
